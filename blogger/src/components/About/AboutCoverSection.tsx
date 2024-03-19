@@ -32,4 +32,4 @@ const AboutCoverSection: React.FC<AboutCoverSectionProps> = () => {
 
 export default AboutCoverSection
                    
-    )
+    
