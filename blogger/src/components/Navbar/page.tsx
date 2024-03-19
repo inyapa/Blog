@@ -1,7 +1,7 @@
-import React from 'react'
-import Logo from '../Logo/page'
-import Link from 'next/link'
-import {FiMenu} from 'react-icons/fi'
+// import React from 'react'
+// import Logo from '../Logo/page'
+// import Link from 'next/link'
+// import {FiMenu} from 'react-icons/fi'
 
 const Navbar = () => {
     const navigation = [
